@@ -1,8 +1,8 @@
 # A New Title
 
-## React, CSS, Hooks - useState, useCallback, useMemo 
+## React, CSS, Hooks - useState, useCallback, React.Memo
 
-### Demo - https://goldendragon.onrender.com
+### Demo - https://newtitle.onrender.com
 
 ---
 
